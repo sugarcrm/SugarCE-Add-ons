@@ -9,4 +9,4 @@ Your dedication and participation in the project helped make Community Edition t
 
 For those curious about using Sugar, or users of Community Edition in production - we recommend starting a Free Trial of Sugar - get started here:
 
-  https://info.sugarcrm.com/trial.html
+  https://info.sugarcrm.com/build-your-free-trial
